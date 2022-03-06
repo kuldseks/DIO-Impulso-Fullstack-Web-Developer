@@ -33,7 +33,22 @@
 
   👉 **Conceitos e atividades essenciais para o sucesso de um projeto ágil:** conceitos e planejamento de tarefas; rotinas de um time ágil. 
 
+### 5 - Primeiros passos para desenvolvimento web
+  👉 **O que é internet:** introdução ao tema, história da internet; termos-chave; a internet atualmente.
+  
+  👉 **Como funciona a internet:** o que são redes.
+  
+  👉 **TCP/IP, portas, roteadores, switches e modems:** TCP/IP e UDP; Portas; Roteadores, switches e modems. 
+  
+  👉 **Celular, internet e outros dispositivos:** dados móveis; Wi-Fi; Bluetooth.
 
+  👉 **Browser, sites, aplicativos e webserver:** Browser; Site, aplicativo e e-commerce; Web-server.
+
+  👉 **O que são Stacks:** definição de Stacks; Definição de Front-end, Back-end e Fullstack. 
+  
+  👉 **LPs e termos:** Principais LPs; diversos termos comuns. 
+  
+  👉 **Construindo a primeira aplicação:** construção de site simples com Xampp, utilizando .PHP. 
 
 
 
