@@ -30,6 +30,7 @@ entendimento de definição de pensamento computacional e estratégias para apli
 👉 **Introdução ao SCRUM:** gestão de projetos e SCRUM; Papéis e responsabilidades de cada um do time; Cerimônias do Scrum; Gestão de Projetos Tradicional x Ágil.
 
 👉 **Fundamentos de um projeto ágil:** papéis e responsabilidades - PO; Analisando escopo e definindo prioridades; Papel do PO na transformação digital.
+
 👉 **Conceitos e atividades essenciais para o sucesso de um projeto ágil:** conceitos e planejamento de tarefas; rotinas de um time ágil. 
 
 
