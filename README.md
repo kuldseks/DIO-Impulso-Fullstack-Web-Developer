@@ -3,15 +3,15 @@
 
 
 ## Cursos finalizados 😋 
-### Pensamento Computacional  
-entendimento de definição de pensamento computacional e estratégias para aplicação em programação, além de inserir o conceito em situações do cotidiano.
+### 1 - Pensamento Computacional  
+  👉 Entendimento de definição de pensamento computacional e estratégias para aplicação em programação, além de inserir o conceito em situações do cotidiano.
 
-### 1 - Lógica de Programação Essencial 
+### 2 - Lógica de Programação Essencial 
   👉 **Introdução à lógica e à programação:** algoritmos e pseudocódigos; fluxogramas, variáveis e constantes; tomadas de decisões e expressões; concatenação.
 
   👉 **Introdução ao Portugol:** estruturas de repetição; linguagens de programação; desvios condicionais e boas práticas em programação; laços de repetição; matrizes e vetores. 
 
-### 2 - Introdução ao Git e ao GitHub
+### 3 - Introdução ao Git e ao GitHub
   👉 **Introdução ao Git:** o que é Git e sua importância.
 
   👉 **Navegação via command line interface e instalação:** comandos básicos para um bom desempenho no terminal; instalação do GIT. 
@@ -26,7 +26,7 @@ entendimento de definição de pensamento computacional e estratégias para apli
 
   👉 **Resolvendo conflitos:** como os conflitos acontecem no GitHub e como resolvê-los. 
 
-### 3 - Projetos Ágeis com Scrum
+### 4 - Projetos Ágeis com Scrum
   👉 **Introdução ao SCRUM:** gestão de projetos e SCRUM; Papéis e responsabilidades de cada um do time; Cerimônias do Scrum; Gestão de Projetos Tradicional x Ágil.
 
   👉 **Fundamentos de um projeto ágil:** papéis e responsabilidades - PO; Analisando escopo e definindo prioridades; Papel do PO na transformação digital.
