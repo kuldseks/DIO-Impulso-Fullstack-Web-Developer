@@ -50,6 +50,16 @@
   
   👉 **Construindo a primeira aplicação:** construção de site simples com Xampp, utilizando .PHP. 
 
+### 6 - Introdução a criação de websites com HTML5 e CSS3
+ 👉 **Introdução ao curso de HTML:** Estrutura básica.
+ 👉 **Entendendo o que é semântica.** 
+ 👉 **Como usar textos e links em HTML:** Tags para textos e links. 
+ 👉 **Como inserir imagens em seu site:** Tag img.
+ 👉 **Como organizar listas com HTML:** Tags li, ul e ol. 
+ 👉 **Introdução e conceitos básicos do CSS3:** introdução ao CSS3 e conceitos básicos.
+ 👉 **Estilizando elementos, textos e listas:** estilizando elementos, textos e listas. 
+ 👉 **Dimensão e alinhamento:** propriedades de dimensões e alinhamento. 
+ *Página desenvolvida está nesse repositório. Pasta Primeiro site com HTML e CSS.*
 
 
 
