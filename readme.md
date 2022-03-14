@@ -1,6 +1,13 @@
 # DIO-Impulso-Fullstack-Web-Developer
-## Bora pra cima! 🔥 🚀 🔥 🚀
+##  🔥 🚀 Bora pra cima! 🔥 🚀
 
+##  Desafios concluídos ✔️
+### 1 - Recriando a Interface do Netflix
+  👉 Recriando a página principal do Netflix de forma responsiva, utilizando HTML, CSS e jQuery.
+  
+  *Projeto desenvolvido está nesse repositório. Pasta Interface JGflix*
+  
+  <a href="https://imgur.com/6R8qxCv"><img src="https://i.imgur.com/6R8qxCv.gif" title="source: imgur.com" /></a>
 
 ## Cursos finalizados 😋 
 ### 1 - Pensamento Computacional  
